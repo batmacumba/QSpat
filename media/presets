@@ -1,0 +1,11 @@
+{
+	"preset_data" : [ 		{
+			"number" : 1,
+			"data" : [ 6, "obj-18", "multislider", "list", 0.755399, 0.75625, 5, "obj-9", "nodes", "nodenumber", 2, 6, "obj-9", "nodes", "xplace", 0.010833, 0.9875, 6, "obj-9", "nodes", "yplace", 0.494167, 0.500833, 6, "obj-9", "nodes", "nsize", 2.0, 2.0, 6, "obj-9", "nodes", "setactive", 1, 1, 5, "obj-28", "slider", "float", 1.0 ]
+		}
+, 		{
+			"number" : 2,
+			"data" : [ 8, "obj-18", "multislider", "list", 0.527568, 0.843951, 0.546334, 0.722971, 5, "obj-9", "nodes", "nodenumber", 4, 8, "obj-9", "nodes", "xplace", 0.010833, 0.709167, 0.015833, 0.9875, 8, "obj-9", "nodes", "yplace", 0.015833, 0.8325, 0.989167, 0.0125, 8, "obj-9", "nodes", "nsize", 2.0, 2.0, 2.0, 2.0, 8, "obj-9", "nodes", "setactive", 1, 1, 1, 1, 5, "obj-28", "slider", "float", 3.0 ]
+		}
+ ]
+}
